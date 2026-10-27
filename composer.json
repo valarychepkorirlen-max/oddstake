@@ -1,0 +1,18 @@
+{
+    "name": "kopesha-hela/football-tips",
+    "description": "Football Betting Tips Website with M-Pesa Integration",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "kreait/firebase-php": "^6.0",
+        "google/cloud-firestore": "^1.19",
+        "monolog/monolog": "^2.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
